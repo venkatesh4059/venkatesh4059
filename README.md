@@ -8,7 +8,7 @@ I am an MCA student at Anurag University passionate about Python development, cy
 - 🔭 I’m currently building hands-on projects in **application security** and **centralized log analysis**.
 - 🔒 My core focus areas are **Python development** and **SIEM/Threat Detection environments**.
 - 💬 Ask me about: Android system modifications, custom kernel environments, ELK stack configurations, or building automation scripts.
-- 📄 **View My Portfolio:** [Click here to see my live portfolio](YOUR_PORTFOLIO_LINK_HERE)
+- 📄 **View My Portfolio:** [Click here to see my live portfolio](https://venkatesh4059.github.io/My-Portfolio/)
 
 ## 🛠️ Tech Stack & Skills
 - **Languages:** Python (Intermediate), C (Intermediate), Java (Beginner), SQL, HTML/CSS
